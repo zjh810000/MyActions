@@ -161,7 +161,7 @@ FORK后，如果actions没有定时执行，请随便找个文件，加个空格
 <img src="https://user-images.githubusercontent.com/6993269/93155923-b0d27300-f739-11ea-928a-803134f0f416.png" alt="获取bot的token" style="zoom:40%;" />
 
 
-
+      -
 ### Cookie获取和配置
 
 > 具体如何取cookie如何配置,可参考 https://github.com/lxk0301/scripts/issues/8#issuecomment-675837338
